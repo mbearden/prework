@@ -1,0 +1,6 @@
+("there once was a writer of code")
+("who wanted to learn JS and node')
+('they said "once I can learn,"')
+("'i'll increase what i earn.'")
+("So now they're in full programmer mode!")
+")
