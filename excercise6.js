@@ -15,3 +15,8 @@ console.log(5 == "5");
 
 console.log("The number 5 is the same value and same data type as the string '5'");
 console.log(5 === "5")
+console.log(); // ==, true
+console.log(); // <, false
+console.log(); // !==, false
+console.log(); // !=, true
+console.log(); // ===, true
